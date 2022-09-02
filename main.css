@@ -1,5 +1,4 @@
-
-body{
+body {
     margin: 0;
     padding: 0;
     font-size: 18px;
@@ -20,19 +19,19 @@ header {
     margin: 0 auto;
     display: block;
 }
-.wrapper{
+.wrapper {
     display: flex;
     align-items: center;
     padding-top: 112px
 }
-.main{
+.main {
     align-items: center;
     width: 1110px;
     left: 245px;
     top: 176px;
     display: block;
 }
-h1{
+h1 {
     width: 465px;
     height: 204px;
     font-weight: 700;
@@ -40,14 +39,14 @@ h1{
     line-height: 1.36em;   
     margin-bottom: 0; 
 }
-.text{
+.text {
     width: 423px;
     font-weight: 500;
     line-height: 1.37em;
     padding: 30px 0;
     margin: 0;
 }
-.button{
+.button {
     background: #FF6861;
     border-radius: 100px;
     color: #fff;
@@ -61,13 +60,13 @@ h1{
     width: 216px;
     text-align: center;
 }
-.cow{
+.cow {
     width: 465px;
     height: 465px;
     size: 465px 465px;
     border-radius: 70px;
 }
-.maincow{
+.maincow {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -76,7 +75,7 @@ h1{
     gap: 176px;
     width: 1110px;
 }
-h2{
+h2 {
     font-weight: 700;
     font-size: 40px;
     line-height: 1.4em;
@@ -90,7 +89,7 @@ h2{
     padding-top: 120px;
     
 }
-.features-container{
+.features-container {
     display: flex;
     flex-direction: column;
     gap: 41px;
@@ -134,7 +133,6 @@ h2{
     padding: 76px 125px 75px 122px;
     justify-content: center;
     margin-top: 120px;
-    
 }
 .img-saintcow {
     width: 287px;
