@@ -87,7 +87,6 @@ h2 {
     flex-direction: column;
     justify-content: center;
     padding-top: 120px;
-    
 }
 .features-container {
     display: flex;
@@ -96,12 +95,10 @@ h2 {
     width: 720px;
     padding-top: 70px;
     margin: 0 auto;
-    
 }
 .feature-wrap {
     display: block;
     padding-left: 34px;
-
 }
 .feature-title {
     font-weight: 700;
